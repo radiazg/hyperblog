@@ -7,4 +7,5 @@
 * trucos muy geniales
 * creado por platzi team
 * incluye ejemplos win y mac
+* disponible para todas las edades
 
